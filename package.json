@@ -1,0 +1,21 @@
+{
+  "name": "cs50-theme-harvard",
+  "displayName": "cs50-theme-harvard",
+  "description": "cs50 light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cs50-light-theme",
+        "uiTheme": "vs",
+        "path": "./themes/cs50-light-theme-color-theme.json"
+      }
+    ]
+  }
+}
