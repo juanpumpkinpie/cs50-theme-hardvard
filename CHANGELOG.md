@@ -1,9 +1,6 @@
 # Change Log
 
-All notable changes to the "cs50-theme-harvard" extension will be documented in this file.
+## 5Th Jan 2024 1.0.0 Release
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Labels black color added
+- TerminalColor active

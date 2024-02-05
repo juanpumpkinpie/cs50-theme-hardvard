@@ -2,15 +2,19 @@
   "name": "cs50-theme-harvard",
   "displayName": "cs50-theme-harvard",
   "description": "cs50 light theme",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "whitehat4u",
   "engines": {
     "vscode": "^1.86.0"
   },
+  "pricing": "Free",
   "categories": [
     "Themes"
   ],
   "icon": "images/128.png",
+  "sponsor": {
+    "url": "https://www.buymeacoffee.com/juanpumpkinpie"
+  },
   "keywords": [
     "cs50",
     "cs50-theme-vs",
