@@ -2,7 +2,7 @@
   "name": "cs50-theme-harvard",
   "displayName": "cs50-theme-harvard",
   "description": "cs50 light theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "whitehat4u",
   "engines": {
     "vscode": "^1.86.0"
